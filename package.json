@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "xo": "^0.36.1"
+  },
+  "xo": {
+    "space": 4,
+    "globals": [
+      "myGlobalFunction"
+    ]
+  }
+}
