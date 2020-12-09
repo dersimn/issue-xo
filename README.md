@@ -11,5 +11,5 @@ Run `npm i` of course, then:
 
 ## Issues
 
-xojs/xo#509
-xojs/SublimeLinter-contrib-xo#17
+- [xojs/xo#509](https://github.com/xojs/xo/issues/509)
+- [xojs/SublimeLinter-contrib-xo#17](https://github.com/xojs/SublimeLinter-contrib-xo/issues/17)
